@@ -8,3 +8,6 @@ cats_J
 
 elk_E
 squirrel_E
+
+cow_M
+wolf_M
