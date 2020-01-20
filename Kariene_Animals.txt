@@ -3,5 +3,12 @@ camel_K
 horse_K
 dog_K
 
-cat_M
-rabbit_M
+
+Eleanor - fox, mouse
+
+Manjinder - 
+cow_M
+Wolf_M
+
+James - 
+
