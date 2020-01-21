@@ -3,7 +3,6 @@ This is the Master Copy.
 Enter your favorite animals in each of our selected categories.
 
 Eleanor's animals:
-
 squirrels
 elk
 
@@ -12,12 +11,10 @@ peacock
 crow
 parrot
 
-
 James' animals:
 Amazon_lizard
 Brazil_lizard
 American_lizard
-
 
 Kariene's animals:
 Horse
