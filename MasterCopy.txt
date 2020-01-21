@@ -14,8 +14,10 @@ Tiger
 
 
 James' animals:
-Cats
-Mongoose
+Amazon_lizard
+Brazil_lizard
+American_lizard
+
 
 Kariene's animals:
 Horse
