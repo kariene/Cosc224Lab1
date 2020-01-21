@@ -9,5 +9,7 @@ human_Manjinder
 elephant_Kariene
 Gorilla_Kariene
 
+guineapig_James
+Hamster_James
 
 
