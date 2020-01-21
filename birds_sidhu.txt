@@ -2,7 +2,7 @@
 Manjinder's Birds
 
 Manjinder-
-pecock
+peacock
 crow
 parrot
 
@@ -11,4 +11,4 @@ Eleanor - Blue Jay, Sparrow
 James - 
 
 
-Kariene - 
+Kariene - Cardinal, Raven

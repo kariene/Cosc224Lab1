@@ -1,14 +1,16 @@
+Kariene -
+camel
+horse
+dog
 
-camel_K
-horse_K
-dog_K
 
-
-Eleanor - fox, mouse
+Eleanor -
+fox
+mouse
 
 Manjinder - 
-cow_M
-Wolf_M
+cow
+Wolf
 
 James - 
 

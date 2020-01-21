@@ -6,6 +6,8 @@ my Squirrels
 whale_Manjinder
 human_Manjinder
 
+elephant_Kariene
+Gorilla_Kariene
 
 
 

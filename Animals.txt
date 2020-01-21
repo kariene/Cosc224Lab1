@@ -1,13 +1,13 @@
-Kariene's Mammals:
 
-camel_K
-horse_K
 
-dogs_J
-cats_J
+camel_Kariene
+Horse_Kariene
 
-elk_E
-squirrel_E
+dogs_James
+cats_James
 
-cow_M
-wolf_M
+elk_Eleanor
+squirrel_Eleanor
+
+cow_Manjinder
+wolf_Manjinder

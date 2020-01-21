@@ -2,19 +2,22 @@ This is the Master Copy.
 
 Enter your favorite animals in each of our selected categories.
 
-Eleanor's Mammals:
+Eleanor's animals:
 
 squirrels
 elk
 
-Manjinder Birds:
+Manjinder's animals:
 cow
-Loin 
+Lion 
 Tiger
 
 
-James' Lizards:
+James' animals:
 
 
 
-Kariene's Animals:
+Kariene's animals:
+Horse
+Dog
+Moose
